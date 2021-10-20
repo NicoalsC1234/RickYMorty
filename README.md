@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+De ultimo momento se daño el proyecto cuando se intento instalar bootstrap, antes servia bien :(
+
 ## Available Scripts
 
 In the project directory, you can run:
